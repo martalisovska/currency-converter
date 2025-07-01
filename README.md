@@ -13,5 +13,5 @@ This is a simple web project built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 🌐 Live Demo
-👉 [Open project](https://martalisovska.github.io/currency-converter/)
+👉 [Open project](https://martalisovska.github.io/currency-converter/index.html)
 
